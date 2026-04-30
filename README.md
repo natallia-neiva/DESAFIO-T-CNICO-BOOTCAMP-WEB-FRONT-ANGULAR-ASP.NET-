@@ -1,5 +1,5 @@
 # DESAFIO-T-CNICO-BOOTCAMP-WEB-FRONT-ANGULAR-ASP.NET-
-Desenvolver uma aplicação web simples para cadastro e gerenciamento de tarefas, utilizando Angular no front-end, ASP.NET Core Web API no back-end e SQL Server como banco de dados. O objetivo do desafio é avaliar conhecimentos básicos de desenvolvimento web, integração front-end e back-end, e lógica de programação.
+Desenvolver uma aplicação web simples para cadastro e gerenciamento de tarefas, utilizando Angular no front-end, ASP.NET Core Web API no back-end e SQL Server como banco de dados.
 
 # 📌 Desafio Técnico – Gerenciador de Tarefas
 
